@@ -1,63 +1,74 @@
-# 👋 Mohamed Sadadou
+# Mohamed Sadadou
 
-**AI Engineer** — LLMs  · Vision IA  · Diffusion  · Full-stack ML   
-📍 Paris, France | 🇫🇷 Français · 🇬🇧 English · 🇦🇪 عربي
-
----
-
-###  À propos
-
-Je suis un ingénieur en intelligence artificielle spécialisé dans le **fine-tuning de modèles de fondation** (LLMs, modèles de diffusion, vision multimodale) et le **déploiement d’architectures IA** complexes.  
-Actuellement je pilote des projets IA de bout en bout : de la R&D à la mise en production.
-
-Je m’intéresse particulièrement à l’**optimisation de modèles (QLoRA, 4bit)**, à la **génération stylisée**, à la **multimodalité** et à la **scalabilité IA sur GPU**.  
-Je suis aussi formateur IA (Orsys France) et contributeur OSS.
+AI Engineer & Tech Lead — LLMs, Vision IA, Diffusion, Full-stack ML  
+Paris, France | Français · English · عربي
 
 ---
 
-### Domaines d’expertise
+## À propos
 
-- **LLMs & NLP** : Mixtral, Mistral, LLaMA, DeepSeek, Zephyr, Qwen, T5
-- **Quantification 4-bit** : QLoRA + bitsandbytes + NF4
-- **Vision & Multimodalité** : LLaVA, SAM, MoveNet, VGG, UNet, RCNN
-- **Diffusion & Génération** : Stable Diffusion, fine-tuning personnalisé
-- **Déploiement** : FastAPI, Docker, Kubernetes, MLflow, CI/CD
-- **Stack Dev** : Python, JS, React, MongoDB, REST, WebSocket
+Ingénieur en Intelligence Artificielle avec une expertise avancée en LLMs, modèles de vision multimodale, génération stylisée et optimisation GPU (QLoRA, 4bit).  
+J’interviens sur des projets de bout en bout : R&D, fine-tuning, intégration produit, mise en production, et automatisation IA multi-agents.
+
+Je développe et maintiens plusieurs outils open source, et accompagne des structures dans la conception de solutions IA sur mesure, souveraines et industrialisables.
 
 ---
 
-### Projets open source
+## Compétences clés
 
-🔧 [`hf-4bit-quantization-template`](https://github.com/Mohamed-Sadadou/hf-4bit-quantization-template)  
-> Script générique pour quantifier en 4-bit (NF4/bfloat16) n’importe quel modèle Hugging Face et le publier automatiquement.
-
-🎨 [`Modelisation_system_vision`](https://github.com/Mohamed-Sadadou/Modelisation_system_vision)  
-> Génération de caricatures + détection d’artefacts dans les images générées par modèles de diffusion.
-
-😷 [`Tp_Detection_Masks`](https://github.com/Mohamed-Sadadou/Tp_Detection_Masks)  
-> Système de détection de masques en temps réel via deep learning (vision par ordinateur).
-
-📚 [`deep-learning-notebooks-collection`](https://github.com/Mohamed-Sadadou/deep-learning-notebooks-collection)  
-> Collection pédagogique de notebooks avancés pour la vision et le NLP.
+- LLMs & NLP : Mixtral, Mistral, LLaMA, DeepSeek, Zephyr, Qwen, T5  
+- Vision & Multimodalité : LLaVA, SAM, MoveNet, VGG, RCNN, UNet  
+- Quantification & Optimisation : QLoRA, bitsandbytes, 4bit, bfloat16  
+- Génération IA : Stable Diffusion, fine-tuning personnalisé, artefact detection  
+- Développement & Déploiement : Python, FastAPI, Docker, Kubernetes, CI/CD  
+- Full-stack : JavaScript, React, MongoDB, REST API, WebSocket  
 
 ---
 
-###  R&D en entreprise
+## Projets open source récents
 
-- **LLMs multimodaux** : adaptation de Mistral en modèle texte-image, exploitation de 3D-LLaVA
-- **Pipeline stylisé** : SD 2.5 + RCNN pour détection & correction d’artefacts
-- **Smart UI analysis** : vision + langage (LLaVA + SAM) pour analyse d’interface
-- **OCR médical & extraction intelligente** : traitement visuel structuré
-- **Systèmes multi-agents** : coordination NLP autonome sur tâches complexes
+**hf-4bit-quantization-template**  
+Quantification automatique 4-bit (NF4/bfloat16) de modèles Hugging Face avec publication sur le Hub.  
+[Voir le projet](https://github.com/Mohamed-Sadadou/hf-4bit-quantization-template)
+
+**Modelisation_system_vision**  
+Génération stylisée et détection d’artefacts sur images générées par modèles de diffusion.  
+[Voir le projet](https://github.com/Mohamed-Sadadou/Modelisation_system_vision)
+
+**Tp_Detection_Masks**  
+Détection temps réel du port de masque par deep learning.  
+[Voir le projet](https://github.com/Mohamed-Sadadou/Tp_Detection_Masks)
+
+**deep-learning-notebooks-collection**  
+Notebooks pédagogiques couvrant NLP, vision, fine-tuning, apprentissage supervisé.  
+[Voir le projet](https://github.com/Mohamed-Sadadou/deep-learning-notebooks-collection)
 
 ---
 
-###  Me contacter
+## Travaux récents (exemples)
 
-- 🧠 [Hugging Face](https://huggingface.co/BlackSadadou)
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-sadadou)
-- ✉️ mohamed.sadadou@outlook.fr
+- LLMs multimodaux : adaptation de Mistral pour traitement texte-image  
+- Pipeline de génération IA stylisée : SD 2.5 + RCNN pour gestion d’artefacts  
+- Coordination multi-agents : tâches NLP autonomes et coordonnées  
+- Analyse d’interfaces utilisateur : fusion vision + langage avec SAM et LLaVA  
+- OCR médical structuré : extraction intelligente d’informations visuelles complexes  
 
 ---
 
-*Je suis ouvert aux collaborations R&D, projets OSS, consulting IA et co-développement de solutions IA souveraines.*
+## Autres engagements
+
+- Formateur IA : LLMs, IA générative, NLP, RAG, MLOps  
+- Contributeur open source : outils LLM, diffusion, quantification  
+- Conseil IA : architecture, audit technique, roadmap de mise en production
+
+---
+
+## Contact
+
+- Hugging Face : [huggingface.co/Mohamed-Sadadou](https://huggingface.co/Mohamed-Sadadou)  
+- LinkedIn : [linkedin.com/in/mohamed-sadadou](https://www.linkedin.com/in/mohamed-sadadou)  
+- Email : mohamed.sadadou@outlook.fr 
+
+---
+
+_"J’optimise des modèles IA pour répondre à des besoins concrets, en alliant performance, souveraineté et robustesse."_
