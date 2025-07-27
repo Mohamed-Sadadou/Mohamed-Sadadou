@@ -1,6 +1,6 @@
 # Mohamed Sadadou
 
-AI Engineer & Tech Lead — LLMs, Vision IA, Diffusion, Full-stack ML  
+AI Engineer — LLMs, Vision IA, Diffusion, Full-stack ML  
 Paris, France | Français · English · عربي
 
 ---
